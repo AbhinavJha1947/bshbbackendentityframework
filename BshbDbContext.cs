@@ -22,6 +22,7 @@ namespace bshbbackend
         public DbSet<HeaderLogo> HeaderLogos { get; set; }
         public DbSet<Notice> Notices { get; set; }
         public DbSet<SubNotice> SubNotices { get; set; }
+        public DbSet<feedback> Feedbacks { get; set; }
 
 
 

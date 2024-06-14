@@ -7,6 +7,9 @@ C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\bshbbackend
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\bshbbackend.pdb
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\CaptchaGen.NetCore.dll
+C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\CaptchaSharp.dll
+C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\CoreCompat.System.Drawing.dll
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Humanizer.dll
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\System.Web.Cors.dll
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -33,6 +36,7 @@ C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Microsoft.O
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -121,6 +125,7 @@ C:\Users\abhin\source\repos\bshbbackend\bshbbackend\obj\Debug\net8.0\bshbbackend
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\obj\Debug\net8.0\bshbbackend.csproj.CoreCompileInputs.cache
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\obj\Debug\net8.0\bshbbackend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\obj\Debug\net8.0\bshbbackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abhin\source\repos\bshbbackend\bshbbackend\obj\Debug\net8.0\bshbbackend.sourcelink.json
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\abhin\source\repos\bshbbackend\bshbbackend\obj\Debug\net8.0\staticwebassets\msbuild.bshbbackend.Microsoft.AspNetCore.StaticWebAssets.props
